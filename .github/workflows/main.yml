@@ -68,7 +68,7 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           passphrase: ${{ secrets.PASSPHRASE }}
           source: "nginx/nginx.conf, ./docker-compose.yaml"
-          target: "/home/prohivan/code"
+          target: "/home/work/code"
 
       - name: Executing remote ssh commands to deploy
         uses: appleboy/ssh-action@master
