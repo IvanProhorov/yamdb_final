@@ -50,5 +50,6 @@ docker-compose stop
 * [PostgreSQL](https://www.postgresql.org/) - объектно-реляционная система управления базами данных;
 * [Docker](https://www.docker.com/) - ПО для автоматизации развёртывания и управления приложениями в средах с поддержкой контейнеризации;
 * [Docker-Compose](https://docs.docker.com/compose/) - инструмент для создания и запуска многоконтейнерных Docker приложений. 
-(https://github.com/IvanProhorov/yamdb_final/workflows/main.yml/badge.svg)
+
+https://github.com/IvanProhorov/yamdb_final/workflows/main/badge.svg
 [![yamdb workflow](https://github.com/IvanProhorov/yamdb_final/actions/workflows/main.yml/badge.svg)](https://github.com/IvanProhorov/yamdb_final/actions/workflows/main.yml)
