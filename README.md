@@ -51,4 +51,4 @@ docker-compose stop
 * [Docker](https://www.docker.com/) - ПО для автоматизации развёртывания и управления приложениями в средах с поддержкой контейнеризации;
 * [Docker-Compose](https://docs.docker.com/compose/) - инструмент для создания и запуска многоконтейнерных Docker приложений. 
 
-![yamdb workflow](https://github.com/prohivan/yamdb_final/workflows/main.yml/badge.svg)
+https://github.com/IvanProhorov/yamdb_final/workflows/main.yml/badge.svg
