@@ -1,6 +1,4 @@
-![yamdb workflow](https://github.com/prohivan/yamdb_final/workflows/main/badge.svg)
 
-![YAMDB banner](/static/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.jpg)
 
 # REST API для сервиса YaMDb — базы отзывов о фильмах, книгах и музыке. (Совместный проект студентов Яндекс.Практикум)
 
@@ -53,3 +51,4 @@ docker-compose stop
 * [Docker](https://www.docker.com/) - ПО для автоматизации развёртывания и управления приложениями в средах с поддержкой контейнеризации;
 * [Docker-Compose](https://docs.docker.com/compose/) - инструмент для создания и запуска многоконтейнерных Docker приложений. 
 
+![yamdb workflow](https://github.com/prohivan/yamdb_final/workflows/main.yml/badge.svg)
