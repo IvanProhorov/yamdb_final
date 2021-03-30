@@ -1,4 +1,4 @@
-![yamdb workflow](https://github.com/prohivan/yamdb_final/workflows/yamdb%20workflow/badge.svg)
+![yamdb workflow](https://github.com/prohivan/yamdb_final/workflows/main/badge.svg)
 
 ![YAMDB banner](/static/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.jpg)
 
@@ -52,5 +52,4 @@ docker-compose stop
 * [PostgreSQL](https://www.postgresql.org/) - объектно-реляционная система управления базами данных;
 * [Docker](https://www.docker.com/) - ПО для автоматизации развёртывания и управления приложениями в средах с поддержкой контейнеризации;
 * [Docker-Compose](https://docs.docker.com/compose/) - инструмент для создания и запуска многоконтейнерных Docker приложений. 
-
 
