@@ -1,4 +1,5 @@
 
+[![yamdb workflow](https://github.com/IvanProhorov/yamdb_final/actions/workflows/main.yml/badge.svg)](https://github.com/IvanProhorov/yamdb_final/actions/workflows/main.yml)
 
 # REST API для сервиса YaMDb — базы отзывов о фильмах, книгах и музыке. (Совместный проект студентов Яндекс.Практикум)
 
@@ -52,4 +53,3 @@ docker-compose stop
 * [Docker-Compose](https://docs.docker.com/compose/) - инструмент для создания и запуска многоконтейнерных Docker приложений. 
 
 https://github.com/IvanProhorov/yamdb_final/workflows/main/badge.svg
-[![yamdb workflow](https://github.com/IvanProhorov/yamdb_final/actions/workflows/main.yml/badge.svg)](https://github.com/IvanProhorov/yamdb_final/actions/workflows/main.yml)
