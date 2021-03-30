@@ -9,8 +9,9 @@ class IsAuthorAdminModeratorOrReadOnly(permissions.BasePermission):
         if request.method == 'POST':
             return bool(request.user and request.user.is_authenticated)
 
-        return bool(request.user and (request.user == obj.author or
-                    request.user.is_moderator or request.user.is_admin))
+        return bool(request.user and (request.user == obj.author
+                                      or request.user.is_moderator
+                                      or request.user.is_admin))
 
 
 class IsAdminOrReadOnly(permissions.BasePermission):
