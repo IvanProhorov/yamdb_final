@@ -14,7 +14,7 @@
 
 Клонируйте репозиторий на локальную машину.
 ```
-git clone https://github.com/prohivan/yamdb_final.git
+git clone https://github.com/IvanProhorov/yamdb_final.git
 ```
 Создайте файл .env и заполните его своими значениями. Все нужные переменные и их примерные значения описаны файле .env.template.
 
@@ -51,4 +51,4 @@ docker-compose stop
 * [Docker](https://www.docker.com/) - ПО для автоматизации развёртывания и управления приложениями в средах с поддержкой контейнеризации;
 * [Docker-Compose](https://docs.docker.com/compose/) - инструмент для создания и запуска многоконтейнерных Docker приложений. 
 
-https://github.com/IvanProhorov/workflows/main/badge.svg
+https://github.com/IvanProhorov/yamdb_final/workflows/main/badge.svg
